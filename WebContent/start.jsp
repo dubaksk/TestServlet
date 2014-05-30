@@ -10,7 +10,7 @@
 
 Index: <a href="./integers">Integers</a>
 
-    ping
+    ping pong
 <%
 
 System.out.print(request );  
