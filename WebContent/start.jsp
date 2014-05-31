@@ -8,7 +8,9 @@
 <body>
 
 
-Index: <a href="./integers">Integers</a>
+Options: <a href="./integers">Integers</a>  <a href="./arrays">Arrays</a>
+        
+
 
 <%
 

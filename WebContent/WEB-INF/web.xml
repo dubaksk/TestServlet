@@ -15,6 +15,14 @@
         <servlet-name>Integers</servlet-name>
         <url-pattern>/integers</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>Arrays</servlet-name>
+        <servlet-class>dubakControllersPack.ArraysController</servlet-class>
+    </servlet>          
+    <servlet-mapping>
+        <servlet-name>Arrays</servlet-name>
+        <url-pattern>/arrays</url-pattern>
+    </servlet-mapping>
     
             
 </web-app>
