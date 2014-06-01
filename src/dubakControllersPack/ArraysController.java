@@ -71,8 +71,7 @@ public class ArraysController extends HttpServlet
     	
 		RequestDispatcher dispatcher = request.getRequestDispatcher(this.address);
 
-		dispatcher.forward(request, response);
-    	    	
+		dispatcher.forward(request, response);    	    	
     }
     
     
